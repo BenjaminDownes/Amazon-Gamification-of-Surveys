@@ -1,9 +1,9 @@
 FALL 2019 to SPRING 2020 Capstone Project
 
 Team Members:
-Jason Carlson
-Jackie Chieng
 Benjamin Downes
+Jackie Chieng
+Jason Carlson
 Sahil Gupta
 Samuel Millar
 
