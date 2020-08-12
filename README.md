@@ -1,4 +1,12 @@
 # Amazon-Gamification-of-Surveys
+FALL 2019 to SPRING 2020 Capstone Project
+
+Team Members:
+Benjamin Downes
+Jackie Chieng
+Jason Carlson
+Sahil Gupta
+Samuel Millar
 
 Notes: DynamoDB access information (region, key, & secret key) were removed from the code
 
